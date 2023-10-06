@@ -6,7 +6,6 @@ El 17 de noviembre de 2009, Tim Berners-Lee y Steve Bratt anunciaron formalmente
 
 La Fundación World Wide Web trabaja en más de 70 países y tiene alrededor de 30 empleados que trabajan desde tres centros principales en Jakarta, Londres y Washington, D.C. 
 
-
-![U+200E](https://github.com/izanHub/TheWorldWideWebFoundation-SMX2_M8_UF1_IzanIzquierdo/blob/main/descarga.jpg "imagen")
+[![U+200E](https://github.com/izanHub/TheWorldWideWebFoundation-SMX2_M8_UF1_IzanIzquierdo/blob/main/descarga.jpg "imagen")]
 
 En resumen, la Fundación World Wide Web es una organización sin fines de lucro que trabaja para avanzar en la Web como un medio que empodera a las personas para lograr cambios positivos. La iniciativa Contract for the Web busca establecer un conjunto de principios para un Internet mejor y más seguro.
