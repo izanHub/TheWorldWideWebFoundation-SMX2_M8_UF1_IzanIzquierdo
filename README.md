@@ -1,7 +1,7 @@
 ## The World Wide Web Foundation
 ### 17 NOV 2009
 
-El 17 de noviembre de 2009, Tim Berners-Lee y Steve Bratt anunciaron formalmente la creación de la Fundación World Wide Web, una idea que había estado en proceso por algún tiempo. En su lanzamiento, el objetivo de la fundación era liderar programas transformadores para avanzar en la Web como un medio que empodera a las personas para lograr cambios positivos. A lo largo de los años, la fundación ha lanzado varias iniciativas de gran alcance para proporcionar acceso igualitario y seguro a la web en todo el mundo.
+El 17 de noviembre de 2009, Tim Berners-Lee y Steve Bratt anunciaron formalmente la creación de la Fundación World Wide Web. En su lanzamiento, el objetivo de la fundación era liderar programas transformadores para avanzar en la Web como un medio que empodera a las personas para lograr cambios positivos. 
 
 ![U+200E](https://github.com/izanHub/TheWorldWideWebFoundation-SMX2_M8_UF1_IzanIzquierdo/blob/main/descarga%20(1).jpg "imagen") 
 
